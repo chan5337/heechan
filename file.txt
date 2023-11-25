@@ -1,2 +1,7 @@
 Initial commit
+<<<<<<< HEAD
 Third commit
+=======
+Second commit
+>>>>>>> v0.9
+Fourth commit
